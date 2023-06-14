@@ -92,6 +92,12 @@ img {
   height: auto;
   display: block;
 }
+.home_img img{
+  margin-top: -500px;
+ min-height: 500px;
+ min-width: 500px;
+ 
+}
 
 /* CUSTOM CSS CLASSES */
 
